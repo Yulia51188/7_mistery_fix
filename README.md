@@ -19,9 +19,11 @@ python tests.py # может понадобиться вызов python3 вме�
 
 Вызов функции `get_roots(a, b, c)` из модуля `quadratic_equation.py`:
 
+```python 
     from quadratic_equation import get_roots
     
     root1, root2 = get_roots(1, 2, 3)
+```
 
 
 # Цели проекта
